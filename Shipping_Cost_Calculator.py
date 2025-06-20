@@ -1,4 +1,3 @@
-# Ecco un ALTO aggiornamento da EmeraldasHoffmann
 # Ecco un nuovo aggiornamento da EmeraldasHoffmann
 # Shipping Cost Calculator
 
